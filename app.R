@@ -4,9 +4,7 @@ library(rsconnect)
 
 #Second Iteration
 
-rsconnect::setAccountInfo(name='sylviasapps',
-                          token='47962656A8E5F663B2D9CB9E5A911DC5',
-                          secret='ZcdOrAECIxLhXwv6iFnlrR1eLm0RtjzWAFllp45o')
+rsconnect::writeManifest()
 
 #Loading datafiles and creating some shortcuts to make things easier in the output code. 
 df <-read.csv("E.csv")
@@ -271,7 +269,7 @@ server <-function(input, output, session){
 }, rownames=FALSE)
 
 }
-#rsconnect::deployApp(forceUpdate = TRUE)
+
 shinyApp(ui=ui, server=server)
 
 
