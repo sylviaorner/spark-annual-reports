@@ -1,0 +1,10 @@
+name: sparktest2
+title:
+username: sylviasapps
+account: sylviasapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15122867
+bundleId: 10686438
+url: https://sylviasapps.shinyapps.io/sparktest2/
+version: 1

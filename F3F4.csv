@@ -1,0 +1,2060 @@
+Check Out Library Name,Circulation Modifier,Circulation
+Clearfield County Public Library,Audiobook,1
+Home Delivery,Audiobook,1
+Hyndman-Londonderry Public Library,Audiobook,1
+Mahanoy City Public Library,Audiobook,1
+Monroe County Correctional Facility,Audiobook,1
+Lackawanna County Library System Bookmobile,Book,1
+Abington Community Library,Book Club Kit,1
+Beaverdale Public Library,Book Club Kit,1
+Bethlehem South Side Branch,Book Club Kit,1
+Collinsville Community Library,Book Club Kit,1
+Conemaugh Township Branch,Book Club Kit,1
+Dalton Community Library,Book Club Kit,1
+Degenstein Community Library,Book Club Kit,1
+Everett Free Library,Book Club Kit,1
+Frackville Free Public Library,Book Club Kit,1
+Highland Community Library,Book Club Kit,1
+Lehighton Area Memorial Library,Book Club Kit,1
+Paul Smith Library of Southern York County,Book Club Kit,1
+Pocono Mountain Public Library,Book Club Kit,1
+Springettsbury Township,Book Club Kit,1
+Arthur Hufnagel Public Library,DVD Nonfiction,1
+Bangor Public Library,DVD Nonfiction,1
+Barrett Paradise Friendly Library,DVD Nonfiction,1
+Mansfield Free Public Library,DVD Nonfiction,1
+RACC,DVD Nonfiction,1
+Shenandoah Area Free Public Library,DVD Nonfiction,1
+Bethany Public Library,DVD-R,1
+Ebensburg Public Library,DVD-R,1
+Genesee Area Library,DVD-R,1
+Hamlin Library,DVD-R,1
+Monroe County Bookmobile,DVD-R,1
+Nanty Glo Public Library,DVD-R,1
+North Wales Area Library,DVD-R,1
+Tyrone-Snyder Public Library,DVD-R,1
+Easton Palmer Branch,Electronic Device,1
+Claysburg Area Public Library,Equipment,1
+Clymer Library,Equipment,1
+Monroe County Bookmobile,Equipment,1
+Sinking Spring Library,Equipment,1
+Southern Lehigh Public Library,Equipment,1
+Western Pocono Community Library,Equipment,1
+Womelsdorf Community Library,Equipment,1
+Wyomissing Public Library,Equipment,1
+Bethel Tulpehocken Public Library,Government Document,1
+Mifflin Community Library,Government Document,1
+Spring Township Library,Government Document,1
+Village Library of Morgantown,Government Document,1
+Wernersville Public Library,Government Document,1
+West Lawn-Wyomissing Hills Library,Government Document,1
+Allentown Public Library,High Demand Audiobooks,1
+Northern Wayne Community Library,High Demand Audiobooks,1
+Albright Memorial Library,High Demand Books,1
+Bangor Public Library,High Demand Books,1
+Federated Library System of Bedford County Outreach,High Demand Books,1
+Hallstead - Great Bend,High Demand Books,1
+Taylor Community Library,High Demand Books,1
+Valley Community Library,High Demand Books,1
+York Literacy Institute,High Demand Books,1
+Bethlehem Bookmobile,High Demand DVD and Blurays,1
+Green Free Library (Wellsboro),High Demand DVD and Blurays,1
+Red Land Community Library,High Demand DVD and Blurays,1
+Springettsbury Township,High Demand DVD and Blurays,1
+Windber Public Library,High Demand DVD and Blurays,1
+Bedford County Library,High Demand DVD-R,1
+Hamburg Public Library,High Demand DVD-R,1
+Mansfield Free Public Library,High Demand DVD-R,1
+Boone Area Library,ILL,1
+RPL - Northeast Branch,ILL,1
+RPL - Senior Outreach,ILL,1
+Ashland Public Library,Kit,1
+Bangor Public Library,Kit,1
+Bethlehem Fountain Hill Satellite,Kit,1
+Dillsburg Area Public Library,Kit,1
+Dimmick Main Library,Kit,1
+Lehighton Area Memorial Library,Kit,1
+Pocono Mountain Public Library,Kit,1
+Smithfield Branch,Kit,1
+Ulysses Library Association,Kit,1
+Westfield Public Library,Kit,1
+Blossburg Memorial Library,Media,1
+Coplay Public Library,Media,1
+Elkland Area Community Library,Media,1
+Gallitzin Public Library,Media,1
+Palmerton Area Library,Media,1
+Wayne County Public Library,Media,1
+York Academy Regional Charter School- Lower School ,Media,1
+Bethlehem Bookmobile,Music,1
+Bethlehem Coolidge Branch,Music,1
+Newfoundland Area Library,Music,1
+North Pocono Public Library,Music,1
+Tunkhannock Public Library,Music,1
+Arthur Hufnagel Public Library,Noncirculating,1
+Bangor Public Library,Noncirculating,1
+Barrett Paradise Friendly Library,Noncirculating,1
+Bellwood-Antis Public Library,Noncirculating,1
+Blossburg Memorial Library,Noncirculating,1
+Carroll Valley Library,Noncirculating,1
+Claysburg Area Public Library,Noncirculating,1
+Clymer Library,Noncirculating,1
+Collinsville Community Library,Noncirculating,1
+Elkland Area Community Library,Noncirculating,1
+Hamlin Library,Noncirculating,1
+Harbaugh-Thomas Library (Biglerville),Noncirculating,1
+Hyndman-Londonderry Public Library,Noncirculating,1
+Kreutz Creek Valley Library,Noncirculating,1
+Lehighton Area Memorial Library,Noncirculating,1
+Mansfield Free Public Library,Noncirculating,1
+Martinsburg Community Library,Noncirculating,1
+Mason-Dixon Public Library,Noncirculating,1
+Muhlenberg Community Library,Noncirculating,1
+Nancy Kay Holmes Branch Library,Noncirculating,1
+Oswayo Valley Memorial Library,Noncirculating,1
+Susquehanna,Noncirculating,1
+Village Library,Noncirculating,1
+Western Pocono Community Library,Noncirculating,1
+York Academy Regional Charter School- Lower School ,Noncirculating,1
+Carroll Valley Library,Realia,1
+Galeton Public Library,Realia,1
+Tamaqua Public Library,Realia,1
+Windber Public Library,Realia,1
+Galeton Public Library,Serial,1
+Lehighton Area Memorial Library,Serial,1
+Ralpho Township Public Library,Serial,1
+Tyrone-Snyder Public Library,Software,1
+Abington Community Library,Unknown,1
+FD Campbell Memorial Library,Unknown,1
+Mahanoy City Public Library,Unknown,1
+Ralpho Township Public Library,Unknown,1
+Trone Memorial Library (East Berlin),Unknown,1
+Cambria County Library,Video,1
+Easton Main Library,Video,1
+Lower Macungie Library,Video,1
+Palmerton Area Library,Video,1
+Pottsville Free Public Library,Video,1
+Public Library of Catasauqua,Video,1
+Cambria County Library,,1
+Collinsville Community Library,,1
+Ellwood City Area Public Library,,1
+Hastings Public Library,,1
+Hollidaysburg Area Public Library,,1
+Lincoln Charter School,,1
+Monroe County Bookmobile,,1
+Port Carbon Public Library,,1
+Springettsbury Township,,1
+Womelsdorf Community Library,,1
+Gallitzin Public Library,Audiobook,2
+Shenandoah Area Free Public Library,Audiobook,2
+Alexander Hamilton Memorial Free Library,Book Club Kit,2
+Altoona Area Public Library,Book Club Kit,2
+Arthur Hufnagel Public Library,Book Club Kit,2
+Clearfield County Public Library,Book Club Kit,2
+Dimmick Main Library,Book Club Kit,2
+Green Free Library (Wellsboro),Book Club Kit,2
+Hastings Public Library,Book Club Kit,2
+Mason-Dixon Public Library,Book Club Kit,2
+Nanty Glo Public Library,Book Club Kit,2
+Saxton Community Library,Book Club Kit,2
+Williamsburg Public Library,Book Club Kit,2
+Northampton Area Public Library,DVD,2
+Harbaugh-Thomas Library (Biglerville),DVD Nonfiction,2
+Northern Cambria Public Library,DVD Nonfiction,2
+Public Library of Catasauqua,DVD Nonfiction,2
+Smithfield Branch,DVD Nonfiction,2
+Barrett Paradise Friendly Library,DVD-R,2
+Bethlehem Fountain Hill Satellite,DVD-R,2
+Cresson Public Library,DVD-R,2
+DuBois Public Library,DVD-R,2
+Minersville Public Library,DVD-R,2
+Roaring Spring Community Library,DVD-R,2
+Pottsville Free Public Library,Electronic Device,2
+Bangor Public Library,Equipment,2
+Bethlehem Coolidge Branch,Equipment,2
+Everett Free Library,Equipment,2
+Exeter Community Library,Equipment,2
+Lehighton Area Memorial Library,Equipment,2
+Mary S. Biesecker Main Library,Equipment,2
+Muhlenberg Community Library,Equipment,2
+New Castle Public Library,Equipment,2
+Pleasant Mount Library,Equipment,2
+Reading Public Library RPL - Main,Equipment,2
+Albright Memorial Library,Government Document,2
+Exeter Community Library,Government Document,2
+Taylor Community Library,Government Document,2
+Bethlehem Coolidge Branch,High Demand Audiobooks,2
+Dillsburg Area Public Library,High Demand Audiobooks,2
+Bernville Area Community Library,High Demand Books,2
+North Pocono Public Library,High Demand Books,2
+Kreutz Creek Valley Library,High Demand DVD and Blurays,2
+Mason-Dixon Public Library,High Demand DVD and Blurays,2
+Smithfield Branch,High Demand DVD and Blurays,2
+Bethlehem Bookmobile,High Demand DVD-R,2
+Coplay Public Library,High Demand DVD-R,2
+Arthur Hufnagel Public Library,ILL,2
+Bethlehem Coolidge Branch,Kit,2
+Glatfelter Memorial Library,Kit,2
+Northern Cambria Public Library,Kit,2
+RPL - Northwest Branch Library,Kit,2
+Slatington Public Library,Kit,2
+Carrolltown Public Library,Media,2
+Conemaugh Township Branch,Media,2
+Dingman Township Library,Media,2
+Everett Free Library,Media,2
+Lehighton Area Memorial Library,Media,2
+Milford Library,Media,2
+Orwigsburg Area Free Public Library,Media,2
+Pocono Township Branch,Media,2
+Springettsbury Township,Media,2
+Susquehanna,Media,2
+Tamaqua Public Library,Media,2
+Tunkhannock Public Library,Media,2
+Easton Palmer Branch,Music,2
+Orwigsburg Area Free Public Library,Music,2
+Western Pocono Community Library,Music,2
+Bethlehem Main Library,Noncirculating,2
+Carbondale Public Library,Noncirculating,2
+Coudersport Public Library,Noncirculating,2
+Curwensville Public Library,Noncirculating,2
+Ebensburg Public Library,Noncirculating,2
+Green Free Library (Wellsboro),Noncirculating,2
+Hamburg Public Library,Noncirculating,2
+Milford Library,Noncirculating,2
+Northern Cambria Public Library,Noncirculating,2
+Paul Smith Library of Southern York County,Noncirculating,2
+Saxton Community Library,Noncirculating,2
+Somerset County Bookmobile,Noncirculating,2
+Conemaugh Township Branch,Realia,2
+Saxton Community Library,Realia,2
+Guthrie Memorial Library: Hanover's Public Library,Serial,2
+Milton Public Library,Serial,2
+Monroe County Correctional Facility,Serial,2
+Kaltreider-Benfer Library,Software,2
+Manchester Township,Software,2
+Village Library,Software,2
+DuBois Public Library,Unknown,2
+Green Free Library (Wellsboro),Unknown,2
+Taylor Community Library,Unknown,2
+Allentown Public Library,Video,2
+Bethlehem South Side Branch,Video,2
+Galeton Public Library,Video,2
+Highland Community Library,Video,2
+Nancy Kay Holmes Branch Library,Video,2
+Allentown Public Library,,2
+Ashland Public Library,,2
+Bangor Public Library,,2
+Bethlehem Coolidge Branch,,2
+Clearfield County Public Library,,2
+Coplay Public Library,,2
+Dillsburg Area Public Library,,2
+Lehighton Area Memorial Library,,2
+Meyersdale Public Library,,2
+Orwigsburg Area Free Public Library,,2
+Smithfield Branch,,2
+Clinton County Traveling Library,Audiobook,3
+York Academy Regional Charter School- Lower School ,Audiobook,3
+Cresson Public Library,Book Club Kit,3
+Guthrie Memorial Library: Hanover's Public Library,Book Club Kit,3
+Hollidaysburg Area Public Library,Book Club Kit,3
+Kaltreider-Benfer Library,Book Club Kit,3
+Public Library of Catasauqua,Book Club Kit,3
+Ralpho Township Public Library,Book Club Kit,3
+Valley Community Library,Book Club Kit,3
+Whitehall Township Public Library,Book Club Kit,3
+York Academy Regional Charter School- Upper School,DVD,3
+Cresson Public Library,DVD Nonfiction,3
+Meyersdale Public Library,DVD Nonfiction,3
+Northern Wayne Community Library,DVD Nonfiction,3
+York Academy Regional Charter School- Upper School,DVD Nonfiction,3
+Forest City,DVD-R,3
+Shamokin Coal Twp Public Library,DVD-R,3
+BCPL - Headquarters,Electronic Device,3
+BCPL - Headquarters,Equipment,3
+Carroll Valley Library,Equipment,3
+Huntingdon County Library,Equipment,3
+Schuylkill Valley Community Library,Equipment,3
+Abington Community Library,Government Document,3
+Bernville Area Community Library,Government Document,3
+Boyertown Community Library,Government Document,3
+Abington Community Library,High Demand Audiobooks,3
+Bethlehem Area Public Library System,High Demand Books,3
+Annie Halenbake Ross Library,High Demand DVD and Blurays,3
+Glatfelter Memorial Library,High Demand DVD and Blurays,3
+Northern Wayne Community Library,High Demand DVD and Blurays,3
+Public Library of Catasauqua,High Demand DVD and Blurays,3
+Penn-Kidder Branch,ILL,3
+Village Library of Morgantown,ILL,3
+Arthur Hufnagel Public Library,Kit,3
+Bethany Public Library,Kit,3
+Bethlehem South Side Branch,Kit,3
+Claysburg Area Public Library,Kit,3
+Genesee Area Library,Kit,3
+Gettysburg Library,Kit,3
+Hallstead - Great Bend,Kit,3
+New Oxford Library,Kit,3
+Ringtown Area Library,Media,3
+Windber Public Library,Media,3
+Abington Community Library,Music,3
+Clymer Library,Music,3
+Public Library of Catasauqua,Music,3
+Taylor Community Library,Music,3
+Easton Main Library,Noncirculating,3
+Guthrie Memorial Library: Hanover's Public Library,Noncirculating,3
+Lower Macungie Library,Noncirculating,3
+Mary S. Biesecker Main Library,Noncirculating,3
+Meyersdale Public Library,Noncirculating,3
+Nanty Glo Public Library,Noncirculating,3
+New Oxford Library,Noncirculating,3
+Renovo Area Library,Noncirculating,3
+South Fork Public Library,Noncirculating,3
+Whitehall Township Public Library,Noncirculating,3
+Meyersdale Public Library,Realia,3
+North Pocono Public Library,Realia,3
+Ralpho Township Public Library,Realia,3
+Genesee Area Library,Software,3
+Lilly Washington Public Library,Software,3
+Nancy Kay Holmes Branch Library,Software,3
+Northern Cambria Public Library,Video,3
+Altoona Area Public Library,,3
+Bellwood-Antis Public Library,,3
+Cresson Public Library,,3
+Easton Palmer Branch,,3
+FD Campbell Memorial Library,,3
+Martinsburg Community Library,,3
+North Pocono Public Library,,3
+Public Library of Catasauqua,,3
+RPL - Senior Outreach,,3
+Saxton Community Library,,3
+FD Campbell Memorial Library,Audiobook,4
+Forest City,Book Club Kit,4
+Joseph & Elizabeth Shaw Public Library,Book Club Kit,4
+Mahanoy City Public Library,Book Club Kit,4
+Claysburg Area Public Library,DVD Nonfiction,4
+Curwensville Public Library,DVD Nonfiction,4
+Lilly Washington Public Library,DVD Nonfiction,4
+Red Land Community Library,DVD Nonfiction,4
+Pocono Township Branch,DVD-R,4
+Knoxville Public Library,Electronic Device,4
+Boone Area Library,Equipment,4
+RACC,Equipment,4
+Lincoln Charter School,High Demand Books,4
+RPL - Senior Outreach,High Demand Books,4
+Bethany Public Library,High Demand DVD and Blurays,4
+Bethlehem Coolidge Branch,High Demand DVD and Blurays,4
+Bethlehem South Side Branch,ILL,4
+RPL - Northwest Branch Library,ILL,4
+Smithfield Branch,ILL,4
+Carrolltown Public Library,Kit,4
+Public Library of Catasauqua,Kit,4
+Hawley Public Library,Media,4
+Martin Library,Media,4
+Tyrone-Snyder Public Library,Media,4
+Lehighton Area Memorial Library,Music,4
+Williamsburg Public Library,Music,4
+Abington Community Library,Noncirculating,4
+Alexander Hamilton Memorial Free Library,Noncirculating,4
+Glatfelter Memorial Library,Noncirculating,4
+Pocono Township Branch,Noncirculating,4
+Pottsville Free Public Library,Noncirculating,4
+Shenandoah Area Free Public Library,Noncirculating,4
+Slatington Public Library,Noncirculating,4
+Tunkhannock Public Library,Noncirculating,4
+Ulysses Library Association,Noncirculating,4
+Williamsburg Public Library,Noncirculating,4
+Annie Halenbake Ross Library,Realia,4
+Martinsburg Community Library,Realia,4
+Palmerton Area Library,Realia,4
+Alexander Hamilton Memorial Free Library,Software,4
+Carbondale Public Library,Software,4
+Collinsville Community Library,Software,4
+Schuylkill Valley Community Library,Unknown,4
+Wayne County Public Library,Unknown,4
+Lehighton Area Memorial Library,Video,4
+North Pocono Public Library,Video,4
+Bethlehem South Side Branch,,4
+Boyertown Community Library,,4
+Ebensburg Public Library,,4
+Knoxville Public Library,,4
+Kutztown Community Library,,4
+Mason-Dixon Public Library,,4
+Muhlenberg Community Library,,4
+Slatington Public Library,,4
+West Lawn-Wyomissing Hills Library,,4
+Ashland Public Library,Audiobook,5
+Friendship Community Library,Audiobook,5
+Ulysses Library Association,Book Club Kit,5
+Wayne County Public Library,Book Club Kit,5
+Manchester Township,DVD Nonfiction,5
+Mason-Dixon Public Library,DVD Nonfiction,5
+Bellwood-Antis Public Library,DVD-R,5
+Hamburg Public Library,Equipment,5
+Kreutz Creek Valley Library,Equipment,5
+Dover Area Community Library,High Demand Audiobooks,5
+Abington Community Library,High Demand Books,5
+New Castle Public Library,High Demand DVD and Blurays,5
+RACC,Kit,5
+Alexander Hamilton Memorial Free Library,Media,5
+Bethlehem Bookmobile,Media,5
+Dillsburg Area Public Library,Media,5
+Green Free Library (Wellsboro),Media,5
+Joseph & Elizabeth Shaw Public Library,Media,5
+Kaltreider-Benfer Library,Media,5
+Schuylkill Haven Free Public Library,Media,5
+Easton Main Library,Music,5
+Carrolltown Public Library,Noncirculating,5
+Milton Public Library,Noncirculating,5
+Hyndman-Londonderry Public Library,Realia,5
+Muhlenberg Community Library,Realia,5
+Trone Memorial Library (East Berlin),Realia,5
+Conemaugh Township Branch,Serial,5
+Lackawanna County Children's Library,Serial,5
+RPL - Northwest Branch Library,Serial,5
+Glatfelter Memorial Library,Software,5
+Lackawanna County Children's Library,Software,5
+Alexander Hamilton Memorial Free Library,,5
+Annie Halenbake Ross Library,,5
+Curwensville Public Library,,5
+Everett Free Library,,5
+Exeter Community Library,,5
+Mahanoy City Public Library,,5
+Martin Library,,5
+Milford Library,,5
+Penn-Kidder Branch,,5
+York County Libraries,Book,6
+DuBois Public Library,Book Club Kit,6
+Ellwood City Area Public Library,Book Club Kit,6
+Hawley Public Library,Book Club Kit,6
+Martinsburg Community Library,Book Club Kit,6
+Newfoundland Area Library,Book Club Kit,6
+Red Land Community Library,Book Club Kit,6
+Somerset County Library,Book Club Kit,6
+Tunkhannock Public Library,Book Club Kit,6
+Westfield Public Library,Book Club Kit,6
+Wyomissing Public Library,Book Club Kit,6
+Montrose,DVD Nonfiction,6
+Orwigsburg Area Free Public Library,DVD Nonfiction,6
+Springettsbury Township,DVD Nonfiction,6
+Memorial Library of Nazareth and Vicinity,Electronic Device,6
+Arthur Hufnagel Public Library,Equipment,6
+Village Library,Equipment,6
+Everett Free Library,High Demand Books,6
+Pocono Mountain Public Library,High Demand Books,6
+RACC,High Demand Books,6
+Meyersdale Public Library,High Demand DVD and Blurays,6
+Somerset County Library,High Demand DVD and Blurays,6
+Village Library,High Demand DVD and Blurays,6
+Western Pocono Community Library,High Demand DVD-R,6
+Lackawanna County Children's Library,ILL,6
+Northern Wayne Community Library,ILL,6
+Bellwood-Antis Public Library,Kit,6
+Roaring Spring Community Library,Kit,6
+Allentown Public Library,Noncirculating,6
+Dover Area Community Library,Noncirculating,6
+Juniata County Library,Noncirculating,6
+Minersville Public Library,Noncirculating,6
+Wyomissing Public Library,Noncirculating,6
+Hallstead - Great Bend,Realia,6
+Village Library of Morgantown,Realia,6
+Mason-Dixon Public Library,Serial,6
+Knoxville Public Library,Software,6
+Hughes Library,Video,6
+Bethany Public Library,,6
+Blossburg Memorial Library,,6
+Gettysburg Library,,6
+Spring Township Library,,6
+Hamlin Library,Book Club Kit,7
+Roaring Spring Community Library,Book Club Kit,7
+Somerset County Bookmobile,Book Club Kit,7
+Village Library,Book Club Kit,7
+Bellwood-Antis Public Library,DVD Nonfiction,7
+Williamsburg Public Library,DVD Nonfiction,7
+Hallstead - Great Bend,DVD-R,7
+Montrose,DVD-R,7
+Western Pocono Community Library,DVD-R,7
+RPL - Northeast Branch,Equipment,7
+North Pocono Public Library,Government Document,7
+Forest City,High Demand Books,7
+Milford Library,High Demand Books,7
+Coplay Public Library,High Demand DVD and Blurays,7
+FD Campbell Memorial Library,Kit,7
+Friendship Community Library,Kit,7
+Nanty Glo Public Library,Kit,7
+Ralpho Township Public Library,Kit,7
+Smithfield Branch,Media,7
+Village Library,Media,7
+Joseph & Elizabeth Shaw Public Library,Noncirculating,7
+New Castle Public Library,Realia,7
+Forest City,,7
+Hyndman-Londonderry Public Library,,7
+Palmerton Area Library,,7
+Tamaqua Public Library,,7
+Ulysses Library Association,,7
+Dover Area Community Library,Book Club Kit,8
+Arthur Hufnagel Public Library,DVD,8
+Bethlehem Coolidge Branch,DVD Nonfiction,8
+Gettysburg Library,DVD Nonfiction,8
+Huntingdon County Library,DVD Nonfiction,8
+Littlestown Library,DVD Nonfiction,8
+Roaring Spring Community Library,DVD Nonfiction,8
+Tyrone-Snyder Public Library,DVD Nonfiction,8
+Newfoundland Area Library,DVD-R,8
+Slatington Public Library,Electronic Device,8
+Red Land Community Library,Equipment,8
+Paul Smith Library of Southern York County,High Demand DVD and Blurays,8
+Coudersport Public Library,Kit,8
+Forest City,Kit,8
+Patton Public Library,Kit,8
+Portage Public Library,Kit,8
+Williamsburg Public Library,Kit,8
+Dover Area Community Library,Media,8
+Williamsburg Public Library,Media,8
+Albright Memorial Library,Music,8
+Memorial Library of Nazareth and Vicinity,Music,8
+Altoona Area Public Library,Noncirculating,8
+Monroe County Correctional Facility,Noncirculating,8
+North Pocono Public Library,Noncirculating,8
+Red Land Community Library,Noncirculating,8
+Altoona Area Public Library,Realia,8
+Coplay Public Library,Realia,8
+Mary S. Biesecker Main Library,Realia,8
+York Literacy Institute,Software,8
+Carbondale Public Library,,8
+Newfoundland Area Library,,8
+Renovo Area Library,,8
+Shenandoah Area Free Public Library,,8
+Valley Community Library,,8
+Bethany Public Library,Audiobook,9
+Elkland Area Community Library,Audiobook,9
+South Fork Public Library,Audiobook,9
+Tyrone-Snyder Public Library,Book Club Kit,9
+Carroll Valley Library,DVD Nonfiction,9
+Bangor Public Library,DVD-R,9
+Dimmick Main Library,DVD-R,9
+Hollidaysburg Area Public Library,DVD-R,9
+Huntingdon County Library,Electronic Device,9
+Genesee Area Library,Equipment,9
+Easton Palmer Branch,High Demand Audiobooks,9
+Kaltreider-Benfer Library,High Demand DVD and Blurays,9
+Southern Lehigh Public Library,High Demand DVD and Blurays,9
+Coplay Public Library,Kit,9
+Shamokin Coal Twp Public Library,Kit,9
+Juniata County Library,Music,9
+Albright Memorial Library,Noncirculating,9
+Huntingdon County Library,Noncirculating,9
+Lincoln Charter School,Noncirculating,9
+Monroe County Bookmobile,Noncirculating,9
+RACC,Realia,9
+RPL - Southeast Branch Library,Realia,9
+North Pocono Public Library,Software,9
+Cresson Public Library,Video,9
+Ellwood City Area Public Library,Video,9
+Northern Cambria Public Library,,9
+Northern Wayne Community Library,,9
+Frackville Free Public Library,Audiobook,10
+Genesee Area Library,Audiobook,10
+Knoxville Public Library,Audiobook,10
+Mary S. Biesecker Main Library,Audiobook,10
+Dingman Township Library,Electronic Device,10
+Bethlehem South Side Branch,High Demand Audiobooks,10
+Glatfelter Memorial Library,High Demand Audiobooks,10
+Mason-Dixon Public Library,High Demand Audiobooks,10
+RPL - Southeast Branch Library,ILL,10
+Mason-Dixon Public Library,Kit,10
+Wyomissing Public Library,Kit,10
+Highland Community Library,Music,10
+Gettysburg Library,Noncirculating,10
+Hughes Library,Noncirculating,10
+Martin Library,Noncirculating,10
+Tamaqua Public Library,Noncirculating,10
+Boone Area Library,Realia,10
+Dingman Township Library,Realia,10
+Exeter Community Library,Realia,10
+Lehighton Area Memorial Library,Realia,10
+Tamaqua Public Library,Serial,10
+BCPL - Headquarters,Software,10
+RPL - Northwest Branch Library,Software,10
+Dimmick Main Library,,10
+Dover Area Community Library,,10
+Gallitzin Public Library,,10
+Kreutz Creek Valley Library,,10
+Lower Macungie Library,,10
+Milton Public Library,,10
+Susquehanna,,10
+Tunkhannock Public Library,,10
+Beaverdale Public Library,Audiobook,11
+Galeton Public Library,Audiobook,11
+RACC,Audiobook,11
+Curwensville Public Library,Book Club Kit,11
+Portage Public Library,Book Club Kit,11
+Potter-Tioga Unit,DVD,11
+Palmerton Area Library,DVD-R,11
+Slatington Public Library,DVD-R,11
+Littlestown Library,Equipment,11
+Tunkhannock Public Library,Equipment,11
+Collinsville Community Library,High Demand Audiobooks,11
+Southern Lehigh Public Library,High Demand Audiobooks,11
+Guthrie Memorial Library: Hanover's Public Library,High Demand DVD and Blurays,11
+Lower Macungie Library,High Demand DVD-R,11
+Littlestown Library,Kit,11
+Newfoundland Area Library,Kit,11
+Roaring Spring Community Library,Media,11
+Pocono Mountain Public Library,Music,11
+Hawley Public Library,Noncirculating,11
+Valley Community Library,Noncirculating,11
+Montrose,Realia,11
+RPL - Northeast Branch,Realia,11
+Reading Public Library RPL - Main,Realia,11
+Spring Township Library,Realia,11
+Bethlehem Bookmobile,Software,11
+Coudersport Public Library,,11
+Federated Library System of Bedford County Outreach,,11
+Hallstead - Great Bend,,11
+Red Land Community Library,,11
+Western Pocono Community Library,,11
+Whitehall Township Public Library,,11
+York Academy Regional Charter School- Lower School ,,11
+Albright Memorial Library,Book Club Kit,12
+Hawley Public Library,Electronic Device,12
+Nancy Kay Holmes Branch Library,Equipment,12
+Bethlehem Fountain Hill Satellite,High Demand Books,12
+Clymer Library,High Demand DVD-R,12
+Mason-Dixon Public Library,Media,12
+Trone Memorial Library (East Berlin),Media,12
+Juniata County Library,Realia,12
+Kutztown Community Library,Realia,12
+Dalton Community Library,,12
+Fleetwood Area Public Library,,12
+Parkland Community Library,,12
+Village Library,,12
+Wayne County Public Library,,12
+Bethany Public Library,DVD Nonfiction,13
+Dover Area Community Library,DVD Nonfiction,13
+Portage Public Library,DVD Nonfiction,13
+Susquehanna,DVD Nonfiction,13
+Glatfelter Memorial Library,Equipment,13
+York Academy Regional Charter School- Upper School,High Demand Books,13
+Genesee Area Library,ILL,13
+Hollidaysburg Area Public Library,ILL,13
+Northampton Area Public Library,ILL,13
+Alexander Hamilton Memorial Free Library,Kit,13
+Dover Area Community Library,Kit,13
+RPL - Northeast Branch,Kit,13
+York Literacy Institute,Kit,13
+Hollidaysburg Area Public Library,Noncirculating,13
+Mifflin Community Library,Realia,13
+North Wales Area Library,Unknown,13
+Glatfelter Memorial Library,,13
+Patton Public Library,,13
+Ringtown Area Library,Audiobook,14
+New Castle Public Library,Book Club Kit,14
+Slatington Public Library,Book Club Kit,14
+Conemaugh Township Branch,DVD,14
+Bethlehem Bookmobile,DVD Nonfiction,14
+Clymer Library,DVD-R,14
+Bethlehem Bookmobile,High Demand Audiobooks,14
+Pleasant Mount Library,High Demand DVD and Blurays,14
+Bethlehem South Side Branch,High Demand DVD-R,14
+New Oxford Library,Media,14
+Bethlehem Main Library,Music,14
+Indian Valley Public Library,Noncirculating,14
+New Castle Public Library,Noncirculating,14
+Oswayo Valley Memorial Library,Serial,14
+Montrose,Video,14
+Lackawanna County Children's Library,,14
+Trone Memorial Library (East Berlin),,14
+York Literacy Institute,,14
+Coudersport Public Library,Book Club Kit,15
+Ashland Public Library,Equipment,15
+Ashland Public Library,High Demand Books,15
+Newfoundland Area Library,High Demand Books,15
+Cambria County Library,Realia,15
+Saxton Community Library,Serial,15
+Kreutz Creek Valley Library,Software,15
+Elkland Area Community Library,,15
+Home Delivery,Book,16
+Springettsbury Township,DVD,16
+Lehighton Area Memorial Library,DVD Nonfiction,16
+Patton Public Library,DVD-R,16
+Juniata County Library,Electronic Device,16
+Mifflin Community Library,Equipment,16
+Roaring Spring Community Library,ILL,16
+Highland Community Library,Kit,16
+Clymer Library,Media,16
+Kaltreider-Benfer Library,Noncirculating,16
+Barrett Paradise Friendly Library,,16
+Hastings Public Library,Audiobook,17
+Village Library,DVD Nonfiction,17
+Northern Cambria Public Library,DVD-R,17
+Trone Memorial Library (East Berlin),Equipment,17
+Lower Macungie Library,High Demand Audiobooks,17
+Meyersdale Public Library,Kit,17
+BCPL - Headquarters,Media,17
+Ashland Public Library,Noncirculating,17
+Pocono Mountain Public Library,Serial,17
+RACC,Software,17
+Bethel Tulpehocken Public Library,,17
+Reading Public Library RPL - Main,,17
+Everett Free Library,DVD Nonfiction,18
+Red Land Community Library,High Demand Audiobooks,18
+Dover Area Community Library,High Demand DVD and Blurays,18
+Bedford County Library,Realia,18
+Easton Palmer Branch,Realia,18
+Joseph & Elizabeth Shaw Public Library,Serial,18
+Beaverdale Public Library,,18
+Collinsville Community Library,DVD Nonfiction,19
+DuBois Public Library,DVD Nonfiction,19
+Highland Community Library,DVD Nonfiction,19
+Whitehall Township Public Library,DVD Nonfiction,19
+Penn-Kidder Branch,DVD-R,19
+Littlestown Library,Media,19
+Forest City,Realia,19
+Martin Library,Software,19
+Whitehall Township Public Library,Software,19
+Windber Public Library,Book Club Kit,20
+Bethlehem Fountain Hill Satellite,DVD,20
+New Oxford Library,DVD Nonfiction,20
+Pleasant Mount Library,DVD Nonfiction,20
+Hawley Public Library,DVD-R,20
+Dover Area Community Library,Equipment,20
+Mason-Dixon Public Library,Equipment,20
+New Oxford Library,Equipment,20
+Conemaugh Township Branch,ILL,20
+Parkland Community Library,Noncirculating,20
+Tyrone-Snyder Public Library,Noncirculating,20
+Meyersdale Public Library,Serial,20
+Mansfield Free Public Library,,20
+Portage Public Library,,20
+Southern Lehigh Public Library,,20
+Slatington Public Library,Audiobook,21
+Degenstein Community Library,DVD Nonfiction,21
+Pocono Mountain Public Library,DVD Nonfiction,21
+Pocono Mountain Public Library,DVD-R,21
+Harbaugh-Thomas Library (Biglerville),Equipment,21
+Coplay Public Library,High Demand Books,21
+York Academy Regional Charter School- Lower School ,High Demand Books,21
+RACC,ILL,21
+Nancy Kay Holmes Branch Library,Kit,21
+West Lawn-Wyomissing Hills Library,Realia,21
+Highland Community Library,,21
+Dimmick Main Library,DVD Nonfiction,22
+Easton Palmer Branch,DVD Nonfiction,22
+Kaltreider-Benfer Library,DVD Nonfiction,22
+Ralpho Township Public Library,DVD-R,22
+Whitehall Township Public Library,High Demand DVD and Blurays,22
+Bernville Area Community Library,Kit,22
+Memorial Library of Nazareth and Vicinity,Noncirculating,22
+Roaring Spring Community Library,Noncirculating,22
+Bellwood-Antis Public Library,DVD,23
+Mahanoy City Public Library,DVD,23
+Manchester Township,DVD,23
+Alexander Hamilton Memorial Free Library,Electronic Device,23
+Tunkhannock Public Library,High Demand Audiobooks,23
+Pleasant Mount Library,Kit,23
+Memorial Library of Nazareth and Vicinity,Media,23
+Elkland Area Community Library,Realia,23
+Albright Memorial Library,Video,23
+Ulysses Library Association,Video,23
+Galeton Public Library,,23
+North Wales Area Library,Book Club Kit,24
+Monroe County Correctional Facility,High Demand Books,24
+Dingman Township Library,Kit,24
+Knoxville Public Library,Kit,24
+Mahanoy City Public Library,Kit,24
+Bethlehem Fountain Hill Satellite,Media,24
+Dalton Community Library,Media,24
+Boyertown Community Library,Realia,24
+Blossburg Memorial Library,Serial,24
+Cambria County Library,Serial,24
+Paul Smith Library of Southern York County,,24
+Hughes Library,DVD Nonfiction,25
+Conemaugh Township Branch,Equipment,25
+Bethlehem South Side Branch,High Demand DVD and Blurays,25
+Tamaqua Public Library,Music,25
+Pleasant Mount Library,Serial,25
+Easton Palmer Branch,Software,25
+Emmaus Public Library,,25
+Oswayo Valley Memorial Library,,25
+Windber Public Library,,25
+Altoona Area Public Library,DVD-R,26
+Somerset County Library,Electronic Device,26
+Bernville Area Community Library,ILL,26
+Hamburg Public Library,ILL,26
+Schuylkill Haven Free Public Library,Kit,26
+Southern Lehigh Public Library,Media,26
+Arthur Hufnagel Public Library,Serial,26
+Nanty Glo Public Library,,26
+Wyomissing Public Library,,26
+Bethlehem Bookmobile,Audiobook,27
+Williamsburg Public Library,Audiobook,27
+Gallitzin Public Library,DVD,27
+Palmerton Area Library,Electronic Device,27
+Somerset County Library,Media,27
+Ellwood City Area Public Library,Serial,27
+Slatington Public Library,Serial,27
+Cambria County Library,Book Club Kit,28
+Saxton Community Library,DVD,28
+Taylor Community Library,Kit,28
+Somerset County Library,Noncirculating,28
+RACC,Serial,28
+New Castle Public Library,,28
+Sinking Spring Library,,28
+Pleasant Mount Library,DVD-R,29
+Northern Wayne Community Library,High Demand Books,29
+Montrose,Kit,29
+Sinking Spring Library,Kit,29
+Bernville Area Community Library,Realia,29
+Bethlehem South Side Branch,Realia,29
+Dalton Community Library,Serial,29
+Forest City,Serial,29
+Abington Community Library,,29
+Conemaugh Township Branch,,29
+Juniata County Library,,29
+Cresson Public Library,Audiobook,30
+RPL - Northwest Branch Library,Audiobook,30
+Bethlehem Area Public Library System,Book,30
+Glatfelter Memorial Library,DVD Nonfiction,30
+Kreutz Creek Valley Library,DVD Nonfiction,30
+Schuylkill Haven Free Public Library,DVD-R,30
+DuBois Public Library,Equipment,30
+Muhlenberg Community Library,ILL,30
+Shamokin Coal Twp Public Library,Serial,30
+Joseph & Elizabeth Shaw Public Library,Unknown,30
+Robesonia Community Library,,30
+Arthur Hufnagel Public Library,Audiobook,31
+Pleasant Mount Library,High Demand Books,31
+Dimmick Main Library,High Demand DVD and Blurays,31
+Monroe County Bookmobile,Kit,31
+RPL - Northwest Branch Library,Media,31
+Curwensville Public Library,Audiobook,32
+Springettsbury Township,Audiobook,32
+Easton Main Library,DVD Nonfiction,32
+Green Free Library (Wellsboro),Equipment,32
+Valley Community Library,Equipment,32
+Martinsburg Community Library,High Demand Books,32
+Collinsville Community Library,High Demand DVD and Blurays,32
+Curwensville Public Library,ILL,32
+Tyrone-Snyder Public Library,Kit,32
+Robesonia Community Library,Realia,32
+Elkland Area Community Library,Unknown,32
+Ralpho Township Public Library,,32
+Somerset County Bookmobile,,32
+Emmaus Public Library,Book Club Kit,33
+Hallstead - Great Bend,DVD Nonfiction,33
+Dingman Township Library,DVD-R,33
+Emmaus Public Library,DVD-R,33
+Womelsdorf Community Library,Electronic Device,33
+Alexander Hamilton Memorial Free Library,Equipment,33
+Easton Palmer Branch,Equipment,33
+Hamlin Library,High Demand DVD and Blurays,33
+Martin Library,High Demand DVD and Blurays,33
+Milton Public Library,Kit,33
+Hollidaysburg Area Public Library,Media,33
+Parkland Community Library,Music,33
+Schuylkill Valley Community Library,Software,33
+Sinking Spring Library,Software,33
+Clymer Library,,33
+Schuylkill Haven Free Public Library,,33
+Cambria County Library,DVD-R,34
+Lehighton Area Memorial Library,Electronic Device,34
+Martin Library,High Demand Audiobooks,34
+Muhlenberg Community Library,Kit,34
+Dingman Township Library,Music,34
+Pottsville Free Public Library,Unknown,34
+Hamlin Library,DVD Nonfiction,35
+Kreutz Creek Valley Library,High Demand Audiobooks,35
+Dillsburg Area Public Library,High Demand DVD and Blurays,35
+Altoona Area Public Library,Software,35
+Hamburg Public Library,Software,35
+Carbondale Public Library,Kit,36
+Kutztown Community Library,Kit,36
+Tamaqua Public Library,Software,36
+Wernersville Public Library,Software,36
+Huntingdon County Library,,36
+Coplay Public Library,Audiobook,37
+Tamaqua Public Library,High Demand Books,37
+Public Library of Catasauqua,ILL,37
+Hollidaysburg Area Public Library,Kit,37
+Elkland Area Community Library,Software,37
+Paul Smith Library of Southern York County,Software,37
+Bedford County Library,,37
+Forest City,Audiobook,38
+Northern Wayne Community Library,Audiobook,38
+Guthrie Memorial Library: Hanover's Public Library,Equipment,38
+Paul Smith Library of Southern York County,High Demand Audiobooks,38
+Fleetwood Area Public Library,ILL,38
+Dover Area Community Library,Software,38
+Taylor Community Library,Software,38
+North Wales Area Library,,38
+Friendship Community Library,DVD,39
+Penn-Kidder Branch,High Demand Books,39
+Parkland Community Library,High Demand DVD and Blurays,39
+Tamaqua Public Library,Kit,39
+Montrose,Media,39
+Tamaqua Public Library,Audiobook,40
+Tyrone-Snyder Public Library,High Demand Books,40
+Milford Library,Music,40
+Brandywine Community Library,Realia,40
+Allentown Public Library,Software,40
+Pocono Mountain Public Library,,40
+Hawley Public Library,Equipment,41
+Wayne County Public Library,High Demand Books,41
+Wernersville Public Library,ILL,41
+Bethlehem South Side Branch,Media,41
+North Wales Area Library,Media,41
+Lower Macungie Library,Music,41
+Cambria County Library,Noncirculating,41
+Ralpho Township Public Library,Audiobook,42
+Claysburg Area Public Library,DVD,42
+Tunkhannock Public Library,DVD-R,42
+Dalton Community Library,Kit,42
+Village Library of Morgantown,Kit,42
+Penn-Kidder Branch,Audiobook,43
+Beaverdale Public Library,DVD,43
+Womelsdorf Community Library,Realia,43
+Everett Free Library,Electronic Device,44
+Altoona Area Public Library,High Demand DVD and Blurays,44
+Easton Palmer Branch,High Demand DVD and Blurays,44
+Lower Macungie Library,High Demand DVD and Blurays,44
+RPL - Southeast Branch Library,Serial,44
+Schuylkill Haven Free Public Library,Serial,44
+Green Free Library (Wellsboro),,44
+Manchester Township,Audiobook,45
+Tyrone-Snyder Public Library,Electronic Device,45
+Dillsburg Area Public Library,Equipment,45
+North Wales Area Library,Kit,45
+Annie Halenbake Ross Library,Noncirculating,45
+Pottsville Free Public Library,DVD Nonfiction,46
+Penn-Kidder Branch,Electronic Device,46
+Kaltreider-Benfer Library,High Demand Audiobooks,46
+Palmerton Area Library,High Demand Books,46
+Frackville Free Public Library,ILL,46
+Red Land Community Library,Kit,46
+Robesonia Community Library,Kit,46
+Somerset County Bookmobile,Kit,46
+Carbondale Public Library,Media,46
+RPL - Northeast Branch,Software,46
+Hastings Public Library,DVD,47
+Pocono Township Branch,Equipment,47
+Hyndman-Londonderry Public Library,Kit,47
+Everett Free Library,Realia,47
+Portage Public Library,DVD-R,48
+Smithfield Branch,DVD-R,48
+Susquehanna,DVD-R,48
+Wayne County Public Library,High Demand Audiobooks,48
+Bernville Area Community Library,Media,48
+Bethlehem South Side Branch,Serial,48
+Hughes Library,,48
+Roaring Spring Community Library,,48
+Glatfelter Memorial Library,Book Club Kit,49
+York Academy Regional Charter School- Upper School,Equipment,49
+Allentown Public Library,Kit,49
+Monroe County Bookmobile,Audiobook,50
+Milton Public Library,High Demand Books,50
+Spring Township Library,ILL,50
+Hollidaysburg Area Public Library,Realia,50
+Lower Macungie Library,DVD Nonfiction,51
+Barrett Paradise Friendly Library,Electronic Device,51
+Collinsville Community Library,Equipment,51
+West Lawn-Wyomissing Hills Library,Kit,51
+Womelsdorf Community Library,Software,51
+Newfoundland Area Library,High Demand DVD and Blurays,52
+BCPL - Headquarters,Kit,52
+Juniata County Library,Kit,52
+Collinsville Community Library,Serial,52
+Hallstead - Great Bend,Serial,52
+Joseph & Elizabeth Shaw Public Library,,52
+Montrose,,52
+Wernersville Public Library,,52
+Meyersdale Public Library,DVD-R,53
+Reading Public Library RPL - Main,Software,53
+Blossburg Memorial Library,ILL,54
+Schuylkill Valley Community Library,ILL,54
+Emmaus Public Library,Media,54
+Harbaugh-Thomas Library (Biglerville),Media,54
+Village Library of Morgantown,Serial,54
+Boone Area Library,,54
+Hollidaysburg Area Public Library,DVD Nonfiction,55
+Roaring Spring Community Library,High Demand DVD and Blurays,55
+Somerset County Bookmobile,High Demand DVD and Blurays,55
+Degenstein Community Library,Music,55
+Somerset County Bookmobile,Realia,55
+Village Library of Morgantown,Software,55
+Windber Public Library,Audiobook,56
+Hughes Library,DVD-R,56
+Paul Smith Library of Southern York County,Equipment,56
+Easton Main Library,High Demand DVD and Blurays,56
+Wayne County Public Library,High Demand DVD and Blurays,56
+Ellwood City Area Public Library,Audiobook,57
+Sinking Spring Library,Realia,57
+Albright Memorial Library,,57
+Milford Library,DVD-R,58
+Guthrie Memorial Library: Hanover's Public Library,High Demand Audiobooks,58
+Williamsburg Public Library,High Demand Books,58
+Easton Palmer Branch,Kit,58
+Dingman Township Library,Software,58
+Village Library of Morgantown,,58
+Coudersport Public Library,Audiobook,59
+Albright Memorial Library,Equipment,59
+Ebensburg Public Library,Kit,59
+Gettysburg Library,Media,59
+Hughes Library,Media,59
+Conemaugh Township Branch,Audiobook,60
+Dalton Community Library,DVD Nonfiction,60
+Whitehall Township Public Library,DVD-R,60
+Mason-Dixon Public Library,ILL,60
+Palmerton Area Library,ILL,60
+Robesonia Community Library,ILL,60
+DuBois Public Library,,60
+Altoona Area Public Library,Electronic Device,61
+Elkland Area Community Library,Electronic Device,61
+Milford Library,Electronic Device,61
+Hollidaysburg Area Public Library,Equipment,61
+Carbondale Public Library,ILL,61
+Highland Community Library,Media,61
+Altoona Area Public Library,Music,61
+Curwensville Public Library,Serial,62
+Schuylkill Valley Community Library,Kit,63
+Kreutz Creek Valley Library,Media,63
+Clymer Library,High Demand DVD and Blurays,64
+Kutztown Community Library,Software,64
+Hamburg Public Library,,64
+Mary S. Biesecker Main Library,,65
+Pocono Mountain Public Library,Audiobook,66
+Robesonia Community Library,Electronic Device,66
+Bedford County Library,High Demand Books,66
+Collinsville Community Library,Kit,66
+Mary S. Biesecker Main Library,Serial,66
+Bethlehem Main Library,,66
+Meyersdale Public Library,High Demand Books,67
+Red Land Community Library,ILL,67
+Kreutz Creek Valley Library,Kit,67
+Coplay Public Library,Serial,67
+Clymer Library,Video,67
+Schuylkill Haven Free Public Library,Audiobook,68
+RPL - Senior Outreach,Audiobook,69
+Alexander Hamilton Memorial Free Library,DVD,69
+Dimmick Main Library,Electronic Device,69
+Hamburg Public Library,Electronic Device,69
+Oswayo Valley Memorial Library,ILL,69
+New Castle Public Library,Kit,69
+Bethlehem Coolidge Branch,Software,69
+Brandywine Community Library,Software,69
+Emmaus Public Library,Equipment,70
+Tunkhannock Public Library,High Demand DVD and Blurays,71
+Southern Lehigh Public Library,ILL,71
+Nanty Glo Public Library,Audiobook,72
+Bernville Area Community Library,Serial,72
+Degenstein Community Library,,72
+Westfield Public Library,Audiobook,73
+Memorial Library of Nazareth and Vicinity,DVD Nonfiction,73
+Taylor Community Library,DVD Nonfiction,73
+Lackawanna County Children's Library,DVD-R,73
+Public Library of Catasauqua,DVD-R,73
+Guthrie Memorial Library: Hanover's Public Library,Kit,74
+Somerset County Bookmobile,Audiobook,75
+Genesee Area Library,DVD,75
+Glatfelter Memorial Library,Media,75
+Pleasant Mount Library,Audiobook,77
+Dimmick Main Library,High Demand Books,77
+Hamlin Library,High Demand Books,77
+Hawley Public Library,,77
+Meyersdale Public Library,Audiobook,78
+Hamlin Library,ILL,78
+Milton Public Library,ILL,78
+Hyndman-Londonderry Public Library,High Demand Books,79
+RPL - Northwest Branch Library,Electronic Device,80
+Brandywine Community Library,ILL,80
+Dimmick Main Library,ILL,80
+Orwigsburg Area Free Public Library,Kit,80
+Hamburg Public Library,Media,80
+RPL - Northeast Branch,Serial,80
+Ralpho Township Public Library,DVD,81
+Hawley Public Library,DVD Nonfiction,81
+Southern Lehigh Public Library,DVD-R,81
+Knoxville Public Library,Media,81
+Wernersville Public Library,Realia,81
+Saxton Community Library,Audiobook,82
+Meyersdale Public Library,ILL,82
+Dimmick Main Library,Serial,82
+Pocono Mountain Public Library,Video,82
+Guthrie Memorial Library: Hanover's Public Library,,82
+Kutztown Community Library,ILL,83
+Tamaqua Public Library,DVD-R,84
+Bethlehem Coolidge Branch,Realia,84
+Green Free Library (Wellsboro),Serial,84
+Conemaugh Township Branch,High Demand Books,85
+Indian Valley Public Library,,85
+Shamokin Coal Twp Public Library,,85
+Northern Cambria Public Library,Audiobook,87
+Nancy Kay Holmes Branch Library,DVD Nonfiction,87
+Hawley Public Library,Audiobook,88
+Womelsdorf Community Library,Media,88
+Hawley Public Library,Kit,89
+Lackawanna County Children's Library,Kit,90
+Newfoundland Area Library,Audiobook,91
+Saxton Community Library,Kit,91
+Fleetwood Area Public Library,Media,91
+Schuylkill Valley Community Library,Media,91
+Minersville Public Library,Video,91
+Somerset County Library,High Demand Books,93
+Kaltreider-Benfer Library,Kit,93
+Altoona Area Public Library,Equipment,94
+Cambria County Library,Electronic Device,95
+Bethlehem Bookmobile,High Demand Books,95
+Schuylkill Valley Community Library,Realia,95
+Everett Free Library,Kit,96
+Wernersville Public Library,Kit,96
+New Castle Public Library,Media,96
+Pocono Township Branch,Music,96
+Muhlenberg Community Library,Serial,96
+Joseph & Elizabeth Shaw Public Library,Audiobook,97
+Slatington Public Library,High Demand Books,97
+Gettysburg Library,Equipment,98
+Everett Free Library,ILL,98
+North Pocono Public Library,Kit,98
+Bethlehem Coolidge Branch,Media,98
+Monroe County Bookmobile,Music,98
+Dimmick Main Library,Audiobook,99
+Emmaus Public Library,DVD Nonfiction,99
+Village Library,High Demand Audiobooks,100
+RPL - Southeast Branch Library,Kit,100
+Guthrie Memorial Library: Hanover's Public Library,DVD Nonfiction,101
+Springettsbury Township,High Demand Books,101
+Bethlehem South Side Branch,DVD Nonfiction,102
+Patton Public Library,Software,102
+Galeton Public Library,Music,103
+Mifflin Community Library,Software,103
+Palmerton Area Library,DVD Nonfiction,104
+Monroe County Bookmobile,Serial,104
+Spring Township Library,Software,104
+Allentown Public Library,High Demand DVD-R,105
+Mansfield Free Public Library,High Demand DVD and Blurays,106
+RACC,,106
+Bethlehem South Side Branch,Equipment,107
+Tunkhannock Public Library,Realia,108
+Nancy Kay Holmes Branch Library,Audiobook,109
+Public Library of Catasauqua,Electronic Device,109
+Hawley Public Library,High Demand DVD and Blurays,109
+Womelsdorf Community Library,Kit,109
+Windber Public Library,ILL,110
+Village Library,Kit,110
+Bangor Public Library,Audiobook,111
+Blossburg Memorial Library,Audiobook,111
+Joseph & Elizabeth Shaw Public Library,ILL,111
+Parkland Community Library,Kit,111
+Memorial Library of Nazareth and Vicinity,,111
+Oswayo Valley Memorial Library,Audiobook,113
+Bethlehem South Side Branch,High Demand Books,114
+Carrolltown Public Library,Software,114
+Lower Macungie Library,Electronic Device,115
+Bangor Public Library,Serial,115
+Newfoundland Area Library,DVD Nonfiction,116
+Emmaus Public Library,High Demand Books,118
+Bethlehem Main Library,High Demand DVD and Blurays,118
+RPL - Senior Outreach,Media,118
+Degenstein Community Library,Kit,119
+Bethlehem Coolidge Branch,Serial,121
+Hawley Public Library,ILL,123
+Paul Smith Library of Southern York County,Kit,123
+DuBois Public Library,Serial,123
+Alexander Hamilton Memorial Free Library,Realia,124
+Bedford County Library,DVD,125
+Dillsburg Area Public Library,DVD Nonfiction,125
+Cambria County Library,Music,125
+Altoona Area Public Library,ILL,126
+Kreutz Creek Valley Library,ILL,126
+Paul Smith Library of Southern York County,Media,126
+Martin Library,Realia,126
+Village Library of Morgantown,Electronic Device,127
+Orwigsburg Area Free Public Library,Serial,127
+Martin Library,Equipment,128
+Paul Smith Library of Southern York County,Realia,128
+Somerset County Bookmobile,Serial,128
+Abington Community Library,ILL,129
+Newfoundland Area Library,ILL,129
+Susquehanna,Realia,129
+Everett Free Library,Audiobook,130
+Bethlehem Coolidge Branch,Audiobook,131
+Schuylkill Valley Community Library,Electronic Device,131
+Bethlehem Main Library,High Demand DVD-R,134
+Wyomissing Public Library,Electronic Device,136
+Carrolltown Public Library,Audiobook,137
+Southern Lehigh Public Library,DVD Nonfiction,138
+RPL - Northeast Branch,Electronic Device,138
+Parkland Community Library,Media,138
+Somerset County Library,Realia,138
+Carroll Valley Library,Serial,138
+Lower Macungie Library,Kit,139
+Spring Township Library,Kit,139
+Dingman Township Library,DVD Nonfiction,140
+Bethlehem Bookmobile,DVD-R,140
+Emmaus Public Library,Serial,140
+Boyertown Community Library,Software,140
+Robesonia Community Library,Software,140
+Ashland Public Library,ILL,141
+Wayne County Public Library,Kit,141
+RPL - Northeast Branch,Audiobook,142
+Gallitzin Public Library,Software,142
+Boyertown Community Library,ILL,143
+Ringtown Area Library,ILL,144
+Tamaqua Public Library,ILL,144
+Taylor Community Library,ILL,144
+Nancy Kay Holmes Branch Library,ILL,145
+Indian Valley Public Library,Book Club Kit,146
+Collinsville Community Library,ILL,146
+Bethel Tulpehocken Public Library,Electronic Device,147
+Bethlehem Coolidge Branch,High Demand Books,147
+Saxton Community Library,High Demand Books,148
+Milford Library,Realia,148
+New Castle Public Library,Electronic Device,149
+Manchester Township,High Demand Books,150
+Monroe County Bookmobile,High Demand Books,150
+Dingman Township Library,High Demand DVD and Blurays,150
+Coplay Public Library,DVD-R,151
+Mary S. Biesecker Main Library,Media,152
+Red Land Community Library,Serial,152
+Womelsdorf Community Library,Audiobook,153
+Portage Public Library,Equipment,153
+Windber Public Library,High Demand Books,155
+Dalton Community Library,ILL,155
+Juniata County Library,Media,157
+Ulysses Library Association,Audiobook,158
+Lehighton Area Memorial Library,High Demand DVD and Blurays,158
+Nancy Kay Holmes Branch Library,Media,158
+Easton Main Library,Electronic Device,159
+Lackawanna County Children's Library,Equipment,159
+Sinking Spring Library,Media,159
+Valley Community Library,Serial,159
+Emmaus Public Library,Kit,160
+Nancy Kay Holmes Branch Library,Serial,160
+Northampton Area Public Library,Book,161
+West Lawn-Wyomissing Hills Library,ILL,164
+Smithfield Branch,High Demand Books,166
+Wernersville Public Library,Media,166
+RPL - Southeast Branch Library,Software,167
+Cresson Public Library,Equipment,170
+Nanty Glo Public Library,DVD,171
+Tunkhannock Public Library,DVD Nonfiction,172
+Glatfelter Memorial Library,ILL,173
+Village Library,ILL,173
+RACC,Media,173
+Whitehall Township Public Library,Music,173
+Roaring Spring Community Library,Audiobook,175
+Kutztown Community Library,Electronic Device,177
+Whitehall Township Public Library,Realia,178
+Bethlehem Coolidge Branch,DVD-R,179
+Emmaus Public Library,High Demand DVD and Blurays,179
+North Pocono Public Library,ILL,179
+Valley Community Library,ILL,179
+Bernville Area Community Library,Electronic Device,181
+Village Library of Morgantown,Media,181
+Southern Lehigh Public Library,High Demand Books,182
+Reading Public Library RPL - Main,ILL,182
+Taylor Community Library,Realia,182
+Cresson Public Library,DVD,184
+Parkland Community Library,DVD-R,184
+Fleetwood Area Public Library,Realia,184
+Bangor Public Library,ILL,185
+Kreutz Creek Valley Library,Serial,185
+Mason-Dixon Public Library,DVD,186
+Bedford County Library,Kit,186
+Memorial Library of Nazareth and Vicinity,Equipment,187
+Arthur Hufnagel Public Library,High Demand Books,187
+Schuylkill Haven Free Public Library,ILL,187
+Somerset County Library,Kit,187
+North Wales Area Library,Serial,187
+Southern Lehigh Public Library,Realia,188
+Carrolltown Public Library,DVD,190
+Easton Palmer Branch,DVD-R,190
+Smithfield Branch,Music,190
+Parkland Community Library,Electronic Device,191
+Lower Macungie Library,ILL,193
+Tyrone-Snyder Public Library,Realia,193
+Red Land Community Library,DVD,194
+Whitehall Township Public Library,Electronic Device,194
+Clymer Library,ILL,194
+Juniata County Library,Software,194
+Mifflin Community Library,ILL,196
+Wyomissing Public Library,Media,196
+Williamsburg Public Library,DVD,197
+Wernersville Public Library,Electronic Device,197
+Brandywine Community Library,Kit,197
+Somerset County Bookmobile,High Demand Books,198
+Slatington Public Library,ILL,200
+Claysburg Area Public Library,Audiobook,201
+Southern Lehigh Public Library,Electronic Device,201
+Port Carbon Public Library,Book,202
+Boone Area Library,Kit,202
+Mary S. Biesecker Main Library,High Demand Books,205
+Dillsburg Area Public Library,ILL,205
+Westfield Public Library,Noncirculating,206
+Portage Public Library,Audiobook,208
+Curwensville Public Library,DVD,208
+Taylor Community Library,Media,209
+Martinsburg Community Library,DVD,210
+Pocono Township Branch,High Demand Books,212
+Boyertown Community Library,Kit,212
+North Pocono Public Library,DVD Nonfiction,213
+Paul Smith Library of Southern York County,DVD Nonfiction,213
+Valley Community Library,DVD Nonfiction,213
+Boone Area Library,Media,213
+Wayne County Public Library,DVD-R,215
+Hawley Public Library,Software,217
+Highland Community Library,Software,217
+Pocono Township Branch,Audiobook,218
+Lehighton Area Memorial Library,Audiobook,220
+Lehighton Area Memorial Library,High Demand Books,222
+Altoona Area Public Library,Media,222
+BCPL - Headquarters,DVD,223
+RPL - Southeast Branch Library,Electronic Device,223
+Dingman Township Library,ILL,225
+Lilly Washington Public Library,,225
+Milford Library,DVD Nonfiction,226
+Milford Library,Software,230
+Somerset County Library,,232
+Easton Main Library,Kit,235
+Tunkhannock Public Library,Kit,235
+Kaltreider-Benfer Library,ILL,236
+Womelsdorf Community Library,Serial,236
+Paul Smith Library of Southern York County,ILL,237
+Carbondale Public Library,DVD Nonfiction,238
+Pottsville Free Public Library,Kit,238
+Pottsville Free Public Library,Realia,239
+Green Free Library (Wellsboro),Kit,241
+Lehighton Area Memorial Library,ILL,242
+Pocono Mountain Public Library,Media,242
+Mansfield Free Public Library,Audiobook,244
+Lackawanna County Children's Library,Media,245
+Montrose,High Demand Books,247
+Lilly Washington Public Library,DVD,248
+Bellwood-Antis Public Library,Audiobook,254
+Allentown Public Library,High Demand DVD and Blurays,255
+Shamokin Coal Twp Public Library,Book Club Kit,258
+Boone Area Library,Electronic Device,260
+Orwigsburg Area Free Public Library,High Demand Books,260
+Annie Halenbake Ross Library,Kit,260
+Oswayo Valley Memorial Library,Equipment,262
+Emmaus Public Library,Electronic Device,265
+Hallstead - Great Bend,Audiobook,268
+Boyertown Community Library,Media,268
+Lackawanna County Children's Library,DVD Nonfiction,269
+Claysburg Area Public Library,High Demand Books,269
+Dalton Community Library,Video,269
+Martinsburg Community Library,Audiobook,270
+Joseph & Elizabeth Shaw Public Library,DVD,272
+Kaltreider-Benfer Library,Equipment,272
+Highland Community Library,Realia,272
+Spring Township Library,Media,273
+New Oxford Library,Serial,273
+Trone Memorial Library (East Berlin),Serial,275
+Tamaqua Public Library,DVD,277
+Bethel Tulpehocken Public Library,Kit,277
+Smithfield Branch,Serial,278
+Allentown Public Library,Music,279
+Parkland Community Library,ILL,280
+Whitehall Township Public Library,Kit,280
+Highland Community Library,Audiobook,281
+Emmaus Public Library,ILL,283
+Exeter Community Library,Software,285
+Hamlin Library,,285
+Ulysses Library Association,DVD,286
+DuBois Public Library,Audiobook,290
+FD Campbell Memorial Library,DVD,292
+North Wales Area Library,DVD,297
+Brandywine Community Library,Media,297
+Westfield Public Library,,297
+New Oxford Library,Audiobook,299
+Bedford County Library,Audiobook,302
+Somerset County Library,Audiobook,302
+Kreutz Creek Valley Library,DVD,302
+Annie Halenbake Ross Library,ILL,302
+Robesonia Community Library,Audiobook,304
+Easton Palmer Branch,Serial,305
+Bedford County Library,ILL,308
+Ulysses Library Association,Serial,308
+Carroll Valley Library,ILL,309
+New Castle Public Library,DVD Nonfiction,310
+Northern Cambria Public Library,DVD,311
+Exeter Community Library,ILL,315
+Kutztown Community Library,Media,318
+RPL - Northeast Branch,Media,319
+Somerset County Library,ILL,320
+Memorial Library of Nazareth and Vicinity,Realia,322
+Bernville Area Community Library,Software,322
+Milton Public Library,Audiobook,325
+Altoona Area Public Library,Kit,327
+Wayne County Public Library,ILL,328
+Martin Library,Kit,328
+Altoona Area Public Library,High Demand Books,331
+Susquehanna,Serial,331
+Bethel Tulpehocken Public Library,ILL,336
+Public Library of Catasauqua,High Demand Books,337
+Hamlin Library,Serial,337
+Easton Main Library,DVD-R,341
+West Lawn-Wyomissing Hills Library,Electronic Device,343
+Martin Library,Serial,343
+Penn-Kidder Branch,DVD,344
+Harbaugh-Thomas Library (Biglerville),ILL,353
+North Pocono Public Library,Equipment,356
+Bethel Tulpehocken Public Library,Software,356
+Easton Palmer Branch,ILL,357
+Muhlenberg Community Library,Software,357
+Smithfield Branch,Equipment,358
+Degenstein Community Library,Electronic Device,362
+Parkland Community Library,Software,363
+Shamokin Coal Twp Public Library,Audiobook,365
+Bernville Area Community Library,Audiobook,366
+Exeter Community Library,Kit,367
+Western Pocono Community Library,ILL,368
+West Lawn-Wyomissing Hills Library,Serial,368
+Windber Public Library,DVD,371
+Memorial Library of Nazareth and Vicinity,DVD-R,371
+Carbondale Public Library,Serial,371
+New Castle Public Library,ILL,374
+Emmaus Public Library,Music,374
+Kutztown Community Library,Serial,376
+Mary S. Biesecker Main Library,DVD,377
+Valley Community Library,Software,377
+Taylor Community Library,,377
+Roaring Spring Community Library,High Demand Books,378
+Carroll Valley Library,High Demand Books,379
+Fleetwood Area Public Library,Electronic Device,380
+Tunkhannock Public Library,ILL,383
+DuBois Public Library,Video,383
+Wayne County Public Library,DVD Nonfiction,385
+Easton Palmer Branch,Media,385
+Roaring Spring Community Library,DVD,386
+Tyrone-Snyder Public Library,Audiobook,388
+Barrett Paradise Friendly Library,ILL,388
+Lackawanna County Children's Library,Realia,390
+Taylor Community Library,Serial,391
+Orwigsburg Area Free Public Library,Audiobook,395
+Allentown Public Library,Serial,396
+Mary S. Biesecker Main Library,ILL,398
+Littlestown Library,Serial,399
+Robesonia Community Library,Serial,402
+Bernville Area Community Library,,403
+New Oxford Library,ILL,404
+Alexander Hamilton Memorial Free Library,Serial,404
+Degenstein Community Library,Serial,408
+Bethlehem South Side Branch,Software,408
+Bethlehem South Side Branch,Audiobook,409
+Martin Library,DVD Nonfiction,410
+North Pocono Public Library,Media,414
+Degenstein Community Library,Audiobook,415
+RPL - Southeast Branch Library,Audiobook,415
+Tyrone-Snyder Public Library,DVD,416
+Hughes Library,ILL,416
+Easton Palmer Branch,Noncirculating,416
+Parkland Community Library,Realia,420
+Glatfelter Memorial Library,Serial,421
+Bethlehem Main Library,Equipment,424
+Boone Area Library,Software,424
+Boone Area Library,Serial,430
+Coplay Public Library,DVD,431
+Mifflin Community Library,Serial,431
+Ringtown Area Library,Serial,431
+Dalton Community Library,DVD-R,432
+Littlestown Library,Audiobook,433
+DuBois Public Library,ILL,433
+Green Free Library (Wellsboro),Audiobook,435
+Collinsville Community Library,DVD,438
+Montrose,Unknown,438
+Wernersville Public Library,Audiobook,439
+Coudersport Public Library,DVD,440
+Spring Township Library,Serial,440
+Fleetwood Area Public Library,Kit,441
+Mifflin Community Library,Kit,442
+Southern Lehigh Public Library,Music,443
+Reading Public Library RPL - Main,Serial,444
+Dingman Township Library,Audiobook,446
+Fleetwood Area Public Library,Software,446
+Dover Area Community Library,ILL,450
+West Lawn-Wyomissing Hills Library,Media,453
+Clymer Library,Serial,456
+Susquehanna,Audiobook,461
+Memorial Library of Nazareth and Vicinity,Software,462
+Red Land Community Library,High Demand Books,464
+Dingman Township Library,Serial,465
+Whitehall Township Public Library,Serial,466
+Village Library,DVD,467
+Pocono Township Branch,Serial,467
+Palmerton Area Library,Audiobook,470
+Kaltreider-Benfer Library,Serial,471
+Guthrie Memorial Library: Hanover's Public Library,ILL,472
+Cambria County Library,Kit,474
+Carbondale Public Library,Audiobook,476
+West Lawn-Wyomissing Hills Library,Audiobook,476
+Lehighton Area Memorial Library,DVD-R,478
+Bethlehem Main Library,Kit,482
+Monroe County Bookmobile,DVD,484
+Littlestown Library,High Demand Books,485
+Easton Main Library,ILL,487
+Bethlehem Fountain Hill Satellite,Book,488
+Pottsville Free Public Library,DVD-R,498
+Harbaugh-Thomas Library (Biglerville),Serial,499
+Guthrie Memorial Library: Hanover's Public Library,Software,504
+Valley Community Library,Kit,505
+North Wales Area Library,Audiobook,506
+Bethlehem Bookmobile,DVD,510
+Allentown Public Library,Equipment,510
+Bethel Tulpehocken Public Library,Serial,510
+Patton Public Library,Audiobook,513
+Pottsville Free Public Library,Serial,516
+Allentown Public Library,ILL,522
+Forest City,DVD,523
+Barrett Paradise Friendly Library,Serial,524
+Juniata County Library,ILL,525
+Hamlin Library,Audiobook,526
+Wayne County Public Library,Serial,527
+Windber Public Library,Software,534
+Whitehall Township Public Library,High Demand Books,538
+North Pocono Public Library,Serial,538
+Muhlenberg Community Library,Media,539
+Sinking Spring Library,Audiobook,540
+DuBois Public Library,DVD,540
+Milford Library,Kit,545
+Collinsville Community Library,Audiobook,547
+Spring Township Library,Electronic Device,547
+New Oxford Library,High Demand Books,547
+Littlestown Library,ILL,547
+Clymer Library,High Demand Books,553
+Exeter Community Library,Electronic Device,557
+Northern Cambria Public Library,Software,558
+Milton Public Library,Electronic Device,560
+Bethany Public Library,DVD,568
+Abington Community Library,Equipment,570
+Hamburg Public Library,Realia,570
+Northern Wayne Community Library,DVD,571
+Windber Public Library,Serial,573
+Patton Public Library,DVD,585
+Albright Memorial Library,ILL,585
+Trone Memorial Library (East Berlin),ILL,587
+Alexander Hamilton Memorial Free Library,Audiobook,590
+Wyomissing Public Library,Audiobook,594
+Easton Main Library,Realia,598
+Friendship Community Library,Book,602
+Ebensburg Public Library,Software,605
+Portage Public Library,Software,611
+Village Library,Audiobook,612
+Valley Community Library,Realia,624
+Ebensburg Public Library,Audiobook,625
+Dingman Township Library,Equipment,632
+Juniata County Library,Serial,635
+Carroll Valley Library,Audiobook,640
+Mifflin Community Library,Electronic Device,646
+North Wales Area Library,Electronic Device,648
+Carbondale Public Library,DVD-R,651
+Whitehall Township Public Library,Media,651
+Milford Library,ILL,654
+Red Land Community Library,Audiobook,655
+Dillsburg Area Public Library,Serial,655
+Elkland Area Community Library,DVD,656
+Dalton Community Library,Audiobook,665
+Portage Public Library,DVD,670
+Tyrone-Snyder Public Library,Equipment,671
+Mason-Dixon Public Library,High Demand Books,671
+Martin Library,ILL,671
+Bethel Tulpehocken Public Library,Realia,675
+Allentown Public Library,Realia,676
+Ellwood City Area Public Library,DVD,679
+Parkland Community Library,High Demand Books,680
+Frackville Free Public Library,DVD,681
+Milford Library,High Demand DVD and Blurays,681
+Lower Macungie Library,Media,683
+Bethlehem Coolidge Branch,DVD,688
+Clymer Library,Audiobook,700
+Brandywine Community Library,Serial,704
+Paul Smith Library of Southern York County,High Demand Books,705
+Harbaugh-Thomas Library (Biglerville),Audiobook,713
+Glatfelter Memorial Library,DVD,717
+RACC,Electronic Device,730
+Albright Memorial Library,Kit,733
+Minersville Public Library,DVD,734
+Hamburg Public Library,Serial,736
+Valley Community Library,Media,737
+Kaltreider-Benfer Library,,740
+Memorial Library of Nazareth and Vicinity,ILL,742
+Fleetwood Area Public Library,Audiobook,744
+Reading Public Library RPL - Main,Kit,744
+Harbaugh-Thomas Library (Biglerville),High Demand Books,745
+Federated Library System of Bedford County Outreach,Book,746
+Tunkhannock Public Library,High Demand Books,746
+Somerset County Library,Serial,747
+Abington Community Library,Realia,749
+Bethlehem South Side Branch,DVD-R,752
+Hamburg Public Library,Kit,765
+Paul Smith Library of Southern York County,Serial,767
+North Pocono Public Library,DVD-R,772
+Schuylkill Haven Free Public Library,Equipment,774
+Tunkhannock Public Library,Audiobook,775
+Abington Community Library,DVD Nonfiction,775
+Dover Area Community Library,Serial,794
+Robesonia Community Library,Media,795
+Nanty Glo Public Library,Software,800
+Fleetwood Area Public Library,Serial,808
+Knoxville Public Library,DVD,811
+Easton Main Library,Software,816
+Brandywine Community Library,Electronic Device,817
+Public Library of Catasauqua,Audiobook,818
+Ebensburg Public Library,DVD,818
+Montrose,Serial,828
+Glatfelter Memorial Library,Audiobook,830
+Tunkhannock Public Library,Serial,833
+Westfield Public Library,Serial,839
+Juniata County Library,Audiobook,840
+Sinking Spring Library,Electronic Device,840
+Kaltreider-Benfer Library,DVD,843
+Village Library,Serial,850
+West Lawn-Wyomissing Hills Library,Software,851
+Southern Lehigh Public Library,Kit,854
+Mason-Dixon Public Library,Audiobook,870
+Collinsville Community Library,High Demand Books,872
+Muhlenberg Community Library,Electronic Device,874
+Galeton Public Library,DVD,882
+Orwigsburg Area Free Public Library,Equipment,891
+Taylor Community Library,DVD-R,893
+Boone Area Library,Audiobook,897
+Boyertown Community Library,Serial,899
+Muhlenberg Community Library,Audiobook,903
+BCPL - Headquarters,Book,905
+Hughes Library,Kit,906
+Wernersville Public Library,Serial,906
+Easton Main Library,Media,912
+Bethel Tulpehocken Public Library,Media,918
+Highland Community Library,DVD-R,931
+Brandywine Community Library,Audiobook,935
+RPL - Southeast Branch Library,Media,935
+Genesee Area Library,Book,948
+Schuylkill Valley Community Library,Serial,948
+Dillsburg Area Public Library,High Demand Books,949
+Abington Community Library,Kit,953
+Reading Public Library RPL - Main,Electronic Device,954
+Pottsville Free Public Library,Audiobook,955
+Smithfield Branch,Audiobook,961
+Orwigsburg Area Free Public Library,DVD,972
+Allentown Public Library,DVD Nonfiction,997
+Dover Area Community Library,DVD,1005
+Blossburg Memorial Library,DVD,1006
+Frackville Free Public Library,Equipment,1010
+York Literacy Institute,Book,1015
+Nancy Kay Holmes Branch Library,DVD-R,1020
+Wyomissing Public Library,Serial,1021
+Memorial Library of Nazareth and Vicinity,Audiobook,1033
+Schuylkill Valley Community Library,Audiobook,1034
+Martin Library,DVD,1035
+Hughes Library,High Demand Books,1043
+Milford Library,Audiobook,1053
+Parkland Community Library,DVD Nonfiction,1056
+Oswayo Valley Memorial Library,DVD,1058
+Hamburg Public Library,Audiobook,1059
+Reading Public Library RPL - Main,Audiobook,1066
+Shamokin Coal Twp Public Library,DVD,1080
+Spring Township Library,Audiobook,1090
+Public Library of Catasauqua,DVD,1098
+Emmaus Public Library,Realia,1099
+Barrett Paradise Friendly Library,Audiobook,1102
+Parkland Community Library,Equipment,1111
+Gettysburg Library,ILL,1112
+Schuylkill Haven Free Public Library,DVD,1120
+Hollidaysburg Area Public Library,Audiobook,1144
+Mifflin Community Library,Media,1148
+Exeter Community Library,Serial,1154
+Bethlehem Main Library,DVD Nonfiction,1160
+Southern Lehigh Public Library,Audiobook,1167
+Guthrie Memorial Library: Hanover's Public Library,Media,1174
+Easton Main Library,Audiobook,1176
+North Wales Area Library,ILL,1194
+Exeter Community Library,Media,1198
+Pottsville Free Public Library,Software,1208
+Pocono Mountain Public Library,Equipment,1216
+Southern Lehigh Public Library,Serial,1216
+Montrose,Audiobook,1225
+Easton Main Library,High Demand Books,1233
+Valley Community Library,Audiobook,1247
+Somerset County Bookmobile,DVD,1253
+Lower Macungie Library,Serial,1253
+Southern Lehigh Public Library,Software,1253
+Milford Library,Serial,1257
+Alexander Hamilton Memorial Free Library,ILL,1270
+Dalton Community Library,DVD,1271
+Sinking Spring Library,Serial,1304
+Renovo Area Library,Book,1307
+Easton Palmer Branch,High Demand Books,1309
+Emmaus Public Library,Audiobook,1338
+Kutztown Community Library,Audiobook,1338
+Hollidaysburg Area Public Library,High Demand Books,1341
+Trone Memorial Library (East Berlin),Audiobook,1345
+Barrett Paradise Friendly Library,High Demand Books,1349
+Altoona Area Public Library,DVD Nonfiction,1354
+Paul Smith Library of Southern York County,DVD,1381
+Bethlehem Main Library,Realia,1398
+Hallstead - Great Bend,DVD,1400
+Kreutz Creek Valley Library,Audiobook,1401
+Village Library of Morgantown,Audiobook,1402
+Hawley Public Library,High Demand Books,1415
+Gettysburg Library,Serial,1421
+York Academy Regional Charter School- Upper School,Book,1422
+Trone Memorial Library (East Berlin),High Demand Books,1423
+Memorial Library of Nazareth and Vicinity,Serial,1426
+Cambria County Library,DVD Nonfiction,1427
+Mifflin Community Library,Audiobook,1437
+Dover Area Community Library,Audiobook,1441
+Dimmick Main Library,DVD,1443
+Valley Community Library,DVD-R,1451
+Martin Library,High Demand Books,1459
+Annie Halenbake Ross Library,Audiobook,1474
+Western Pocono Community Library,Kit,1479
+Dillsburg Area Public Library,Audiobook,1488
+Hollidaysburg Area Public Library,DVD,1507
+Boyertown Community Library,Electronic Device,1522
+Slatington Public Library,DVD,1528
+Meyersdale Public Library,Equipment,1533
+Lower Macungie Library,Realia,1537
+Susquehanna,DVD,1540
+Ringtown Area Library,DVD,1575
+Juniata County Library,Equipment,1576
+Milton Public Library,Software,1579
+RPL - Northwest Branch Library,DVD,1612
+Hughes Library,Serial,1614
+Western Pocono Community Library,Media,1622
+Shenandoah Area Free Public Library,DVD,1626
+Degenstein Community Library,Equipment,1630
+Barrett Paradise Friendly Library,Equipment,1631
+Allentown Public Library,High Demand Books,1636
+Bethlehem Main Library,ILL,1636
+New Castle Public Library,Audiobook,1637
+Meyersdale Public Library,DVD,1648
+Bethlehem Main Library,High Demand Books,1652
+Parkland Community Library,Serial,1680
+Alexander Hamilton Memorial Free Library,Video,1686
+Easton Palmer Branch,Audiobook,1693
+Lackawanna County Children's Library,DVD,1704
+Pleasant Mount Library,DVD,1707
+Gettysburg Library,High Demand Books,1729
+Shenandoah Area Free Public Library,Book,1741
+Whitehall Township Public Library,Audiobook,1753
+Albright Memorial Library,Realia,1753
+Indian Valley Public Library,Serial,1758
+Parkland Community Library,Audiobook,1768
+Somerset County Library,DVD,1791
+Kaltreider-Benfer Library,Audiobook,1807
+Bethlehem South Side Branch,DVD,1811
+Mansfield Free Public Library,DVD,1883
+Taylor Community Library,Audiobook,1892
+Ashland Public Library,DVD,1938
+Cambria County Library,Media,1944
+Indian Valley Public Library,ILL,1948
+Hughes Library,Music,1957
+Lower Macungie Library,High Demand Books,1959
+Northern Wayne Community Library,Book,1967
+Western Pocono Community Library,Audiobook,1992
+South Fork Public Library,Book,2002
+Abington Community Library,Media,2006
+Wayne County Public Library,Audiobook,2007
+Dillsburg Area Public Library,DVD,2046
+Springettsbury Township,Book,2067
+Cambria County Library,Software,2067
+Western Pocono Community Library,High Demand Books,2070
+Huntingdon County Library,Audiobook,2075
+Highland Community Library,DVD,2087
+Bethlehem Main Library,High Demand Audiobooks,2097
+Easton Main Library,Serial,2145
+Milford Library,Equipment,2160
+Glatfelter Memorial Library,High Demand Books,2185
+Lower Macungie Library,Audiobook,2213
+Abington Community Library,Software,2217
+Westfield Public Library,DVD,2218
+Pocono Mountain Public Library,DVD,2224
+Abington Community Library,DVD-R,2229
+Bethany Public Library,Book,2253
+Conemaugh Township Branch,Book,2287
+Village Library,High Demand Books,2313
+Kaltreider-Benfer Library,High Demand Books,2379
+Annie Halenbake Ross Library,DVD,2392
+Albright Memorial Library,DVD Nonfiction,2402
+Abington Community Library,Serial,2422
+Pocono Township Branch,DVD,2431
+North Pocono Public Library,Audiobook,2436
+Reading Public Library RPL - Main,Media,2439
+Allentown Public Library,Audiobook,2442
+Parkland Community Library,High Demand Audiobooks,2499
+Boyertown Community Library,Audiobook,2501
+Hyndman-Londonderry Public Library,Book,2509
+Exeter Community Library,Audiobook,2514
+Gettysburg Library,Audiobook,2517
+Mahanoy City Public Library,Book,2551
+Lackawanna County Children's Library,Audiobook,2570
+Western Pocono Community Library,DVD,2642
+Minersville Public Library,Book,2650
+Bethlehem Main Library,Serial,2680
+Newfoundland Area Library,DVD,2696
+Wyomissing Public Library,DVD,2710
+RPL - Northwest Branch Library,Book,2733
+Bangor Public Library,DVD,2778
+Arthur Hufnagel Public Library,Book,2811
+RPL - Senior Outreach,DVD,2814
+Kreutz Creek Valley Library,High Demand Books,2819
+Everett Free Library,DVD,2840
+Carbondale Public Library,DVD,2876
+Hastings Public Library,Book,2882
+Carroll Valley Library,DVD,2926
+Guthrie Memorial Library: Hanover's Public Library,Audiobook,2940
+Nancy Kay Holmes Branch Library,DVD,2973
+Dover Area Community Library,High Demand Books,3031
+Albright Memorial Library,Software,3076
+Bethlehem Bookmobile,Book,3086
+Albright Memorial Library,Media,3102
+Gallitzin Public Library,Book,3161
+Lehighton Area Memorial Library,DVD,3167
+Clymer Library,DVD,3178
+Montrose,DVD,3198
+Easton Main Library,Equipment,3267
+Western Pocono Community Library,Electronic Device,3339
+Clearfield County Public Library,Book,3352
+Frackville Free Public Library,Book,3358
+Paul Smith Library of Southern York County,Audiobook,3385
+Tamaqua Public Library,Equipment,3459
+Lower Macungie Library,DVD-R,3463
+Taylor Community Library,DVD,3565
+Hamlin Library,DVD,3571
+Cambria County Library,Audiobook,3619
+Manchester Township,Book,3653
+Hawley Public Library,DVD,3739
+Martin Library,Audiobook,3893
+Juniata County Library,DVD,3917
+Carrolltown Public Library,Book,3918
+Williamsburg Public Library,Book,3933
+Clinton County Traveling Library,Book,3936
+Guthrie Memorial Library: Hanover's Public Library,DVD,3954
+Littlestown Library,DVD,3973
+Pottsville Free Public Library,Equipment,3988
+Somerset County Library,Equipment,3990
+Penn-Kidder Branch,Book,4012
+Degenstein Community Library,DVD,4043
+Guthrie Memorial Library: Hanover's Public Library,High Demand Books,4044
+Huntingdon County Library,DVD,4092
+Dingman Township Library,DVD,4132
+Ashland Public Library,Book,4136
+Memorial Library of Nazareth and Vicinity,Kit,4186
+Pottsville Free Public Library,DVD,4236
+Northern Cambria Public Library,Book,4250
+RPL - Northeast Branch,DVD,4282
+Lilly Washington Public Library,Book,4429
+North Pocono Public Library,DVD,4470
+Hughes Library,Equipment,4478
+Ulysses Library Association,Book,4509
+Forest City,Book,4523
+Altoona Area Public Library,Audiobook,4565
+Galeton Public Library,Book,4586
+Memorial Library of Nazareth and Vicinity,DVD,4596
+Allentown Public Library,DVD-R,4606
+Knoxville Public Library,Book,4728
+Milton Public Library,DVD,4731
+Pleasant Mount Library,Book,4751
+Bethlehem Main Library,Software,4769
+Barrett Paradise Friendly Library,DVD,4780
+Albright Memorial Library,Serial,4861
+RACC,DVD,4908
+Bernville Area Community Library,DVD,4983
+Bethlehem Main Library,Media,5142
+RACC,Book,5236
+New Oxford Library,DVD,5257
+Ralpho Township Public Library,Book,5366
+Cresson Public Library,Book,5414
+Albright Memorial Library,Audiobook,5463
+New Castle Public Library,DVD,5471
+Beaverdale Public Library,Book,5516
+Schuylkill Valley Community Library,DVD,5519
+Allentown Public Library,Media,5647
+Green Free Library (Wellsboro),DVD,5657
+Blossburg Memorial Library,Book,5786
+Indian Valley Public Library,Audiobook,5813
+Bethlehem Main Library,Audiobook,5844
+Hughes Library,Audiobook,5989
+Claysburg Area Public Library,Book,6069
+Harbaugh-Thomas Library (Biglerville),DVD,6102
+Indian Valley Public Library,Music,6105
+Valley Community Library,DVD,6125
+Roaring Spring Community Library,Book,6156
+West Lawn-Wyomissing Hills Library,DVD,6201
+Patton Public Library,Book,6232
+Abington Community Library,Audiobook,6291
+Elkland Area Community Library,Book,6340
+Bethlehem South Side Branch,Book,6362
+Saxton Community Library,Book,6425
+Oswayo Valley Memorial Library,Book,6512
+FD Campbell Memorial Library,Book,6571
+Lincoln Charter School,Book,6591
+Newfoundland Area Library,Book,6641
+Coplay Public Library,Book,6666
+Robesonia Community Library,DVD,6726
+Smithfield Branch,DVD,6850
+Easton Palmer Branch,DVD,6863
+Village Library of Morgantown,DVD,6904
+Fleetwood Area Public Library,DVD,7002
+Palmerton Area Library,DVD,7274
+Tunkhannock Public Library,DVD,7294
+Womelsdorf Community Library,DVD,7459
+Windber Public Library,Book,7478
+Nanty Glo Public Library,Book,7498
+Sinking Spring Library,DVD,7547
+Bellwood-Antis Public Library,Book,7869
+Wernersville Public Library,DVD,7935
+Whitehall Township Public Library,DVD,8061
+Milford Library,DVD,8100
+Albright Memorial Library,DVD-R,8323
+Southern Lehigh Public Library,DVD,8370
+Boone Area Library,DVD,8432
+RPL - Senior Outreach,Book,8445
+Ringtown Area Library,Book,8688
+Trone Memorial Library (East Berlin),DVD,8723
+Coudersport Public Library,Book,8765
+Brandywine Community Library,DVD,8780
+Slatington Public Library,Book,8885
+Emmaus Public Library,DVD,9049
+RPL - Southeast Branch Library,DVD,9430
+Westfield Public Library,Book,9441
+Spring Township Library,DVD,9464
+Altoona Area Public Library,DVD,9633
+Susquehanna,Book,9702
+Bethel Tulpehocken Public Library,Audiobook,9840
+Public Library of Catasauqua,Book,9878
+Dimmick Main Library,Book,9917
+Hallstead - Great Bend,Book,9981
+Pocono Township Branch,Book,10466
+Muhlenberg Community Library,DVD,10521
+Monroe County Bookmobile,Book,10754
+RPL - Northeast Branch,Book,10877
+Schuylkill Haven Free Public Library,Book,10936
+Cambria County Library,DVD,11076
+Portage Public Library,Book,11087
+Meyersdale Public Library,Book,11418
+Curwensville Public Library,Book,11711
+Allentown Public Library,DVD,11788
+Wayne County Public Library,DVD,11878
+Mansfield Free Public Library,Book,12034
+Abington Community Library,DVD,12501
+Bethlehem Main Library,DVD-R,12524
+Monroe County Correctional Facility,Book,12588
+Hamburg Public Library,DVD,12951
+Kutztown Community Library,DVD,13259
+Easton Main Library,DVD,13423
+Pocono Mountain Public Library,Book,13873
+Shamokin Coal Twp Public Library,Book,13876
+Tamaqua Public Library,Book,14066
+Mary S. Biesecker Main Library,Book,14102
+Boyertown Community Library,DVD,14318
+Lower Macungie Library,DVD,15181
+Joseph & Elizabeth Shaw Public Library,Book,15344
+Dalton Community Library,Book,15898
+Bethlehem Coolidge Branch,Book,16726
+Lehighton Area Memorial Library,Book,16743
+Tyrone-Snyder Public Library,Book,17017
+Everett Free Library,Book,17417
+Hughes Library,DVD,17711
+Nancy Kay Holmes Branch Library,Book,17741
+Robesonia Community Library,Book,17877
+Collinsville Community Library,Book,18454
+Bethel Tulpehocken Public Library,DVD,18548
+York Academy Regional Charter School- Lower School ,Book,18959
+Mifflin Community Library,DVD,19206
+Carroll Valley Library,Book,19656
+Gettysburg Library,DVD,19669
+RPL - Southeast Branch Library,Book,20206
+Ebensburg Public Library,Book,20536
+Albright Memorial Library,DVD,20728
+Dingman Township Library,Book,20797
+Martinsburg Community Library,Book,20874
+Barrett Paradise Friendly Library,Book,21262
+Parkland Community Library,DVD,21599
+Somerset County Bookmobile,Book,22384
+Pottsville Free Public Library,Book,22458
+Littlestown Library,Book,22589
+Exeter Community Library,DVD,22835
+Bernville Area Community Library,Book,22990
+Hamlin Library,Book,23278
+Hawley Public Library,Book,23661
+Smithfield Branch,Book,23780
+New Oxford Library,Book,23786
+Clymer Library,Book,24271
+Womelsdorf Community Library,Book,25056
+Degenstein Community Library,Book,25064
+Milton Public Library,Book,25180
+West Lawn-Wyomissing Hills Library,Book,25452
+Ellwood City Area Public Library,Book,26165
+Bedford County Library,Book,26733
+Carbondale Public Library,Book,26821
+Reading Public Library RPL - Main,DVD,28053
+Bangor Public Library,Book,28195
+Palmerton Area Library,Book,28244
+DuBois Public Library,Book,28471
+Somerset County Library,Book,28747
+Boone Area Library,Book,29348
+Schuylkill Valley Community Library,Book,31747
+Annie Halenbake Ross Library,Book,31850
+Orwigsburg Area Free Public Library,Book,32080
+Wernersville Public Library,Book,32126
+Bethlehem Main Library,DVD,34505
+Alexander Hamilton Memorial Free Library,Book,34546
+Taylor Community Library,Book,35910
+Village Library of Morgantown,Book,36839
+Highland Community Library,Book,36960
+Sinking Spring Library,Book,38369
+Wyomissing Public Library,Book,38729
+Mason-Dixon Public Library,Book,39092
+Green Free Library (Wellsboro),Book,39458
+Harbaugh-Thomas Library (Biglerville),Book,40655
+Hollidaysburg Area Public Library,Book,41033
+Brandywine Community Library,Book,42252
+Wayne County Public Library,Book,42481
+Juniata County Library,Book,43317
+Muhlenberg Community Library,Book,45552
+Hamburg Public Library,Book,46361
+Huntingdon County Library,Book,46393
+Red Land Community Library,Book,47159
+Trone Memorial Library (East Berlin),Book,47729
+Fleetwood Area Public Library,Book,49540
+Spring Township Library,Book,49626
+Montrose,Book,50574
+Indian Valley Public Library,DVD,51054
+Reading Public Library RPL - Main,Book,52081
+Western Pocono Community Library,Book,55319
+Milford Library,Book,55904
+New Castle Public Library,Book,57356
+Tunkhannock Public Library,Book,59585
+Whitehall Township Public Library,Book,59719
+Lackawanna County Children's Library,Book,61402
+Kutztown Community Library,Book,63035
+Easton Palmer Branch,Book,64910
+Village Library,Book,65377
+Glatfelter Memorial Library,Book,69818
+Mifflin Community Library,Book,71423
+North Wales Area Library,Book,78200
+North Pocono Public Library,Book,78378
+Dillsburg Area Public Library,Book,80086
+Southern Lehigh Public Library,Book,80777
+Valley Community Library,Book,81997
+Bethel Tulpehocken Public Library,Book,83269
+Easton Main Library,Book,83393
+Emmaus Public Library,Book,83682
+Altoona Area Public Library,Book,85507
+Cambria County Library,Book,85599
+Gettysburg Library,Book,93325
+Kreutz Creek Valley Library,Book,103238
+Memorial Library of Nazareth and Vicinity,Book,105973
+Kaltreider-Benfer Library,Book,110327
+Albright Memorial Library,Book,111523
+Allentown Public Library,Book,113796
+Martin Library,Book,115322
+Paul Smith Library of Southern York County,Book,115992
+Boyertown Community Library,Book,127305
+Hughes Library,Book,138783
+Dover Area Community Library,Book,142319
+Lower Macungie Library,Book,153957
+Guthrie Memorial Library: Hanover's Public Library,Book,161107
+Abington Community Library,Book,172004
+Exeter Community Library,Book,174794
+Parkland Community Library,Book,188855
+Bethlehem Main Library,Book,225981
+Indian Valley Public Library,Book,316158
